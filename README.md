@@ -16,8 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nevinalisheva&show_icons=true&locale=en&layout=compact" alt="nevinalisheva" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nevinalisheva&show_icons=true&locale=en" alt="nevinalisheva" /></p>
-
 
 During my bootcamp, I gained foundational skills in JavaScript, React.js, Node.js, Next.js and other modern libraries and frameworks. My personal projects and coursework demonstrate my ability to take on new challenges and deliver high-quality solutions.
 
@@ -28,6 +26,9 @@ On this profile, you'll find a variety of projects that I've worked on, includin
 - **Berlinale FMA**: A fleet management application designed for Berlinale workers, professionals and accredited visitors to the festival.
 
 Feel free to take a look around, and don't hesitate to reach out if you have any questions or would like to collaborate on a project.
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nevinalisheva&show_icons=true&locale=en" alt="nevinalisheva" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nevinalisheva&" alt="nevinalisheva" /></p>
 
