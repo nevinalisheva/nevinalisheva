@@ -1,13 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Nevin Alisheva</h1>
-<h3 align="center">Welcome to my GitHub profile! I am a junior full stack developer currently in training, with a passion for building web and mobile applications.</h3>
+<h3 align="center">Welcome to my GitHub profile! I am a junior full stack developer, with a passion for building web and mobile applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nevinalisheva&label=Profile%20views&color=0e75b6&style=flat" alt="nevinalisheva" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nevinalisheva" alt="nevinalisheva" /></a> </p>
 
-- 🌱 I’m currently doing **20 week Web Developer Bootcamp in Wild Code School in Berlin**
+- 🌱 Engaged as a **Frontend Developer Intern** at [**Deep Skin AI**](#), a pioneering startup in Berlin that uses AI to enhance skincare choices.
 
+My role involves:
+- 🛠 Assisting in the development of web pages and components for embedding across various platforms.
+- 🔒 Contributing to ensuring GDPR compliance and data integrity.
+- 📈 Configuring Google Analytics as part of the team.
+- 📚 Continuously learning and adapting to best practices in frontend development.
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,9 +24,10 @@
 
 During my bootcamp, I gained foundational skills in JavaScript, React.js, Node.js, Next.js and other modern libraries and frameworks. My personal projects and coursework demonstrate my ability to take on new challenges and deliver high-quality solutions.
 
+
 On this profile, you'll find a variety of projects that I've worked on, including:
 
-- **NEMURA**: A web application that allows you to search for any TV show and get detailed information about its actors, seasons, episodes, and overall rating.
+- **NEMURA**: A web application that allows you to search for any TV show and get detailed information about its actors, seasons, episodes, and overall rating. 
 - **Christmas in Berlin**: A mobile-only web app that showcases Christmas markets in your district and features an advent calendar for a special surprise.
 - **Berlinale FMA**: A fleet management application designed for Berlinale workers, professionals and accredited visitors to the festival.
 
