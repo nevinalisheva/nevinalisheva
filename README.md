@@ -30,7 +30,6 @@ On this profile, you'll find a variety of projects that I've worked on, includin
 
 Feel free to take a look around, and don't hesitate to reach out if you have any questions or would like to collaborate on a project.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nevinalisheva&show_icons=true&locale=en" alt="nevinalisheva" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nevinalisheva" alt="nevinalisheva" /></a> </p>
 
