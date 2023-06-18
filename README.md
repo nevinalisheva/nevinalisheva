@@ -3,7 +3,7 @@
 <h4 align="center">Welcome to my GitHub profile! I am a junior full stack developer, with a passion for building web and mobile applications.</h4>
 
 
-- 🌱 Engaged as a **Frontend Developer Intern** at [**Deep Skin AI**](#), a pioneering startup in Berlin that uses AI to enhance skincare choices.
+- 🌱 Engaged as a **Frontend Developer Intern** at **Deep Skin AI**, a pioneering startup in Berlin that uses AI to enhance skincare choices.
 
 My role involves:
 - 🛠 Assisting in the development of web pages and components for embedding across various platforms.
