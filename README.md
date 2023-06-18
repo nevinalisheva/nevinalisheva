@@ -1,10 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Nevin Alisheva</h1>
-<h3 align="center">Welcome to my GitHub profile! I am a junior full stack developer, with a passion for building web and mobile applications.</h3>
+<h2 align="center">Hi 👋, I'm Nevin Alisheva</h2>
+<h4 align="center">Welcome to my GitHub profile! I am a junior full stack developer, with a passion for building web and mobile applications.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nevinalisheva&label=Profile%20views&color=0e75b6&style=flat" alt="nevinalisheva" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nevinalisheva" alt="nevinalisheva" /></a> </p>
 
 - 🌱 Engaged as a **Frontend Developer Intern** at [**Deep Skin AI**](#), a pioneering startup in Berlin that uses AI to enhance skincare choices.
 
@@ -35,6 +32,7 @@ Feel free to take a look around, and don't hesitate to reach out if you have any
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nevinalisheva&show_icons=true&locale=en" alt="nevinalisheva" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nevinalisheva" alt="nevinalisheva" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nevinalisheva&" alt="nevinalisheva" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nevinalisheva&label=Profile%20views&color=0e75b6&style=flat" alt="nevinalisheva" /> </p>
 
